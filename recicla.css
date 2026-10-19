@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(244, 250, 247);
+    background: linear-gradient(100deg, rgba(235, 241, 241, 0.8), rgb(226, 235, 231));
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgb(31, 94, 52);
+}
+
+p {
+    font-family: sans-serif;
+    color: #39393a;
+}
+img{
+    border-image: auto;
+    border-radius: 40px;
+}
